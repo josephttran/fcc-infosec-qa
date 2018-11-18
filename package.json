@@ -1,0 +1,19 @@
+{
+	"name": "qa-test",
+	"version": "0.0.1",
+	"description": "Unit testing and functional testing",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"dependencies": {
+		"express": "^5.0.0-alpha.2",
+		"body-parser": "^1.15.2",
+		"mocha": "^3.1.0",
+		"chai": "^3.5.0",
+		"chai-http": "^3.0.0",
+		"zombie": "^4.2.1",
+		"cors": "^2.8.1"
+	},
+	"license": "MIT"
+}
