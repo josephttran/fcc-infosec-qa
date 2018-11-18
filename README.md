@@ -1,3 +1,3 @@
 # FCC Information Security and Quality Assurance Challenge
 
-Testing with Chai
+Testing with Mocha and Chai
